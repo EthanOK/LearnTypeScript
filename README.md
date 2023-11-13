@@ -1,3 +1,8 @@
+doc:
+https://www.runoob.com/typescript/ts-tutorial.html
+
+https://www.typescriptlang.org/docs/
+
 安装 typescript：
 
 `npm install -g typescript`
