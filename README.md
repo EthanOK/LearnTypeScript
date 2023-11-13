@@ -4,3 +4,23 @@
 
 安装完成后我们可以使用 tsc 命令来执行 TypeScript 的相关代码:
 `tsc -v`
+
+# ts 编译 js
+
+hello.ts
+
+```ts
+const str: string = "helle ts";
+console.log(str);
+```
+
+`tsc hello.ts`
+
+hello.js
+
+```js
+var str = "helle ts";
+console.log(str);
+```
+
+`node hello.js`
