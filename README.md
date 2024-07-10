@@ -32,3 +32,6 @@ console.log(str);
 ```
 
 `node hello.js`
+
+# 直接运行 ts
+`ts-node hello.ts`
